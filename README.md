@@ -52,3 +52,5 @@
     + ~~Complete First Factorial challenge~~
     + ~~Complete First Reverse challenge~~
     + ~~Complete Letter Changes challenge~~ ["fiddle"](https://jsfiddle.net/brenderbee/2cxrgaun/7/)
+    + ~~Complete Simple Adding Challenge~~
+    + Begin Letter Capitalize challenge. Not complete.
