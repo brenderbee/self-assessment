@@ -49,3 +49,4 @@
   - Note to practice sorts.
 * ~~Read ["Internship and Job Search Preparing for job interviews Technical interviews"](https://www.learnhowtoprogram.com/internship-and-job-search/preparing-for-job-interviews/technical-interviews) and take notes for the questions linked.~~
   - Practice code challenges at ["coderbyte"](https://coderbyte.com/challenges)
+    + ~~Complete First Factorial challenge~~
