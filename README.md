@@ -47,4 +47,5 @@
   - Note to watch ["mycodeschool"](https://www.youtube.com/user/mycodeschool).  
 * ~~Read ["Get that job at Facebook"](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html).~~
   - Note to practice sorts.
-* Read ["Internship and Job Search Preparing for job interviews Technical interviews"](https://www.learnhowtoprogram.com/internship-and-job-search/preparing-for-job-interviews/technical-interviews) and take notes for the questions linked.
+* ~~Read ["Internship and Job Search Preparing for job interviews Technical interviews"](https://www.learnhowtoprogram.com/internship-and-job-search/preparing-for-job-interviews/technical-interviews) and take notes for the questions linked.~~
+  - Practice code challenges at ["coderbyte"](https://coderbyte.com/challenges)
