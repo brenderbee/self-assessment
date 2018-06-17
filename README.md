@@ -56,5 +56,5 @@
     + Begin Letter Capitalize challenge. Not complete.
 * ~~Read ["Conducting a Great Technical Interview"](http://www.hiringthing.com/2012/05/12/conducting-a-great-technical-interview.html) and note answers to the questions asked.~~
 * ~~Read ["Everything You Need to Know to Rock Your Next Whiteboard Test"](https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/).~~
-* Read ["The only 6 types of questions you need to know to ace any coding interview"]([https://www.byte-by-byte.com/six-software-engineering-interview-questions/) and note any logic problems presented and formulate responses.
+* ~~Read ["The only 6 types of questions you need to know to ace any coding interview"]([https://www.byte-by-byte.com/six-software-engineering-interview-questions/) and note any logic problems presented and formulate responses.~~
 
