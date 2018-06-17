@@ -42,6 +42,7 @@
 * Read ["9 Ways to Make the Most of Your First Few Months as a Junior Developer"](https://medium.com/learn-love-code/9-ways-to-make-the-most-of-your-first-few-months-as-a-junior-developer-5c8234fb6403).
 
 ## Plan Executed
-* Read ["Ace the coding interview, every time"](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc)
+* ~~Read ["Ace the coding interview, every time"](https://medium.com/@nickciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc)~~
+  - Note to study ["Binary Search trees"](https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/) 
 * ~~Read ["Get that job at Facebook"](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html).~~
   - Note to practice sorts.
