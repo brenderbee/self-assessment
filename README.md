@@ -51,4 +51,4 @@
   - Practice code challenges at ["coderbyte"](https://coderbyte.com/challenges)
     + ~~Complete First Factorial challenge~~
     + ~~Complete First Reverse challenge~~
-    + ~~Struggling with Letter Changes challenge~~
+    + ~~Complete Letter Changes challenge~~ ["fiddle"](https://jsfiddle.net/brenderbee/2cxrgaun/7/)
