@@ -54,3 +54,5 @@
     + ~~Complete Letter Changes challenge~~ ["fiddle"](https://jsfiddle.net/brenderbee/2cxrgaun/7/)
     + ~~Complete Simple Adding Challenge~~
     + Begin Letter Capitalize challenge. Not complete.
+* ~~Read ["Conducting a Great Technical Interview"](http://www.hiringthing.com/2012/05/12/conducting-a-great-technical-interview.html) and note answers to the questions asked.~~
+
