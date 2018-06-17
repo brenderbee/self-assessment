@@ -51,3 +51,4 @@
   - Practice code challenges at ["coderbyte"](https://coderbyte.com/challenges)
     + ~~Complete First Factorial challenge~~
     + ~~Complete First Reverse challenge~~
+    + ~~Struggling with Letter Changes challenge~~
