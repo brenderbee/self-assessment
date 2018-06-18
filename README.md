@@ -81,4 +81,10 @@
       - Padding - Clears an area around the content. The padding is transparent
       - Border - A border that goes around the padding and content
       - Margin - Clears an area outside the border. The margin is transparent
+* ~~Watch ["What You Need to Know to be a Front End Developer in 2018"](https://www.youtube.com/watch?v=Xd7huBu39qk).~~
+  - html = hypertext markup language (low-hanging fruit!)
+  - I don't use enough semantic markup. Browsers use semantic markup to search webpages to provide SEO. It also helps with text readers and increases accessibility.
+  - css = cascading stylesheets. Tells ths client how to render your document (typically markup language).
+  - DOM = document object model. The DOM is like a representation of your webpage or application that allows javascript and the client to commiunicate. Each html element on you page is represented in the DOM and you can use javascript to manipulate those DOM elements.
+  - CLI = command line interface.
 
