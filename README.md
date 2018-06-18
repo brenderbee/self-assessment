@@ -87,4 +87,9 @@
   - css = cascading stylesheets. Tells ths client how to render your document (typically markup language).
   - DOM = document object model. The DOM is like a representation of your webpage or application that allows javascript and the client to commiunicate. Each html element on you page is represented in the DOM and you can use javascript to manipulate those DOM elements.
   - CLI = command line interface.
+* ~~Read, note, and practice the ["55 Must Know Built-In Javascript Methods and Operators"](https://gist.github.com/raineorshine/9513117).~~
 
+## Reflection & Next Steps
+I am feeling more confident with basic interview questions and some built-in javascript methods. I would like to know more acronyms and methods.
+
+I need to practice whiteboarding in front of other people before I will feel confident in a job search. I will set aside time to whiteboard during lunch at Epicodus and at home.
