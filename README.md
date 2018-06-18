@@ -71,4 +71,9 @@
     + Never used this, but it sounds awesome:
       - Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
       - The CSS Reset stylesheet is a basic template to wipe out all built-in styling for HTML elements. You can customize your CSS Reset stylesheet, and add your own preferred styling choices for your webpage.
+  - _Can you tell me the difference between inline, inline-block, and block elements?_
+    + Inline elements don’t start on a new line, they appear on the same line as the content and tags beside them. Some examples of inline elements are <span> , <strong>, and <img> tags. When it comes to margins and padding, browsers treat inline elements differently. You can add space to the left and right on an inline element, but you cannot add height to the top or bottom padding or margin of an inline element.
+    + Inline-block elements are similar to inline elements, except they can have padding and margins added on all four sides. You’ll have to declare display: inline-block in your CSS code. One common use for using inline-block is for creating navigation links horizontally.
+    + A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+    + 
 
