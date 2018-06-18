@@ -54,8 +54,17 @@
     + ~~Complete Letter Changes challenge~~ ["fiddle"](https://jsfiddle.net/brenderbee/2cxrgaun/7/)
     + ~~Complete Simple Adding Challenge~~
     + ~~Complete Letter Capitalize challenge. Not complete.~~
-      - Now refamiliar with: string.slice(), string.charAt(), string.split(" ")
+      - Now refamiliar with: string.toLocaleUpperCase(), string.slice(), string.charAt(), string.split(" ")
 * ~~Read ["Conducting a Great Technical Interview"](http://www.hiringthing.com/2012/05/12/conducting-a-great-technical-interview.html) and note answers to the questions asked.~~
 * ~~Read ["Everything You Need to Know to Rock Your Next Whiteboard Test"](https://skillcrush.com/2016/03/29/rock-your-next-whiteboard-test/).~~
 * ~~Read ["The only 6 types of questions you need to know to ace any coding interview"]([https://www.byte-by-byte.com/six-software-engineering-interview-questions/) and note any logic problems presented and formulate responses.~~
+* ~~Watch ["5 Interview Questions that every Frontend Web Developer Should Know"](https://www.youtube.com/watch?v=0fFYacBQPbA) and note the questions and formulate responses.~~
+  - _What are your favorite features of HTML5 and CSS3?_
+    + HTML5 new structural elements: <aside>, <footer>, <figure>, <dialog>, <nav>, <progress>
+    + HTML5 new input types: color, date, datetime, datetime-local, email, month, etc
+    + HTML5 new graphics: <svg>, <canvas>
+    + HTML5 new media elements: <audio>, <embed>, <source>, <video
+    + CSS3: rounded corners (border-radius), border-image, box-shadow,text-shadow, gradient, rgba with opacity, transform with rotation, web fonts, animations, media queries
+  - _Can you describe your workflow when creating a webpage?_
+    
 
