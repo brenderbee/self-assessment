@@ -75,5 +75,10 @@
     + Inline elements don’t start on a new line, they appear on the same line as the content and tags beside them. Some examples of inline elements are <span> , <strong>, and <img> tags. When it comes to margins and padding, browsers treat inline elements differently. You can add space to the left and right on an inline element, but you cannot add height to the top or bottom padding or margin of an inline element.
     + Inline-block elements are similar to inline elements, except they can have padding and margins added on all four sides. You’ll have to declare display: inline-block in your CSS code. One common use for using inline-block is for creating navigation links horizontally.
     + A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
-    + 
+  - _Can you please describe to me the CSS Box Model?﻿_
+    + The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. Content - The content of the box, where text and images appear
+      - Content - The content of the box, where text and images appear
+      - Padding - Clears an area around the content. The padding is transparent
+      - Border - A border that goes around the padding and content
+      - Margin - Clears an area outside the border. The margin is transparent
 
