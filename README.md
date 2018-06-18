@@ -88,6 +88,7 @@
   - DOM = document object model. The DOM is like a representation of your webpage or application that allows javascript and the client to commiunicate. Each html element on you page is represented in the DOM and you can use javascript to manipulate those DOM elements.
   - CLI = command line interface.
 * ~~Read, note, and practice the ["55 Must Know Built-In Javascript Methods and Operators"](https://gist.github.com/raineorshine/9513117).~~
+  - up to the array methods
 
 ## Reflection & Next Steps
 I am feeling more confident with basic interview questions and some built-in javascript methods. I would like to know more acronyms and methods.
