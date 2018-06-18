@@ -60,11 +60,11 @@
 * ~~Read ["The only 6 types of questions you need to know to ace any coding interview"]([https://www.byte-by-byte.com/six-software-engineering-interview-questions/) and note any logic problems presented and formulate responses.~~
 * ~~Watch ["5 Interview Questions that every Frontend Web Developer Should Know"](https://www.youtube.com/watch?v=0fFYacBQPbA) and note the questions and formulate responses.~~
   - _What are your favorite features of HTML5 and CSS3?_
-    + HTML5 new structural elements: <aside>, <footer>, <figure>, <dialog>, <nav>, <progress>
+    + HTML5 new structural elements: aside, footer, figure, dialog, nav, progress
     + HTML5 new input types: color, date, datetime, datetime-local, email, month, etc
-    + HTML5 new graphics: <svg>, <canvas>
-    + HTML5 new media elements: <audio>, <embed>, <source>, <video
-    + CSS3: rounded corners (border-radius), border-image, box-shadow,text-shadow, gradient, rgba with opacity, transform with rotation, web fonts, animations, media queries
+    + HTML5 new graphics: svg, canvas
+    + HTML5 new media elements: audio, embed, source, video
+    + CSS3: rounded corners (border-radius), border-image, box-shadow,text-shadow, gradient, rgba with opacity, transform with rotation, web fonts, animations, media queries, flexbox, grid
   - _Can you describe your workflow when creating a webpage?_
     + I typically start with some sort of sketch mock-up. If I am using a framework like Angular, then I determine what parts of the site warrent their own component (does it do a discrete task) and which components need to be children and parents. I typically build/style each component and make sure that it works independentally of the other components. Testing is important at this stage so I will test my logic to ensure that it wotrks. I include media queries and image opitmization so that mobile devices are not loading unnecessarily large files. If I'm using a module bundler like webpack, than I will use that to minify and bundle my code. Check that the site works as expected across various clients.
   - _Can you tell me the difference between CSS reseting and CSS normalizing?_
@@ -72,7 +72,7 @@
       - Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
       - The CSS Reset stylesheet is a basic template to wipe out all built-in styling for HTML elements. You can customize your CSS Reset stylesheet, and add your own preferred styling choices for your webpage.
   - _Can you tell me the difference between inline, inline-block, and block elements?_
-    + Inline elements don’t start on a new line, they appear on the same line as the content and tags beside them. Some examples of inline elements are <span> , <strong>, and <img> tags. When it comes to margins and padding, browsers treat inline elements differently. You can add space to the left and right on an inline element, but you cannot add height to the top or bottom padding or margin of an inline element.
+    + Inline elements don’t start on a new line, they appear on the same line as the content and tags beside them. Some examples of inline elements are span, strong, and img tags. When it comes to margins and padding, browsers treat inline elements differently. You can add space to the left and right on an inline element, but you cannot add height to the top or bottom padding or margin of an inline element.
     + Inline-block elements are similar to inline elements, except they can have padding and margins added on all four sides. You’ll have to declare display: inline-block in your CSS code. One common use for using inline-block is for creating navigation links horizontally.
     + A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
   - _Can you please describe to me the CSS Box Model?﻿_
