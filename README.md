@@ -67,4 +67,8 @@
     + CSS3: rounded corners (border-radius), border-image, box-shadow,text-shadow, gradient, rgba with opacity, transform with rotation, web fonts, animations, media queries
   - _Can you describe your workflow when creating a webpage?_
     + I typically start with some sort of sketch mock-up. If I am using a framework like Angular, then I determine what parts of the site warrent their own component (does it do a discrete task) and which components need to be children and parents. I typically build/style each component and make sure that it works independentally of the other components. Testing is important at this stage so I will test my logic to ensure that it wotrks. I include media queries and image opitmization so that mobile devices are not loading unnecessarily large files. If I'm using a module bundler like webpack, than I will use that to minify and bundle my code. Check that the site works as expected across various clients.
+  - _Can you tell me the difference between CSS reseting and CSS normalizing?_
+    + Never used this, but it sounds awesome:
+      - Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+      - The CSS Reset stylesheet is a basic template to wipe out all built-in styling for HTML elements. You can customize your CSS Reset stylesheet, and add your own preferred styling choices for your webpage.
 
